@@ -9,3 +9,6 @@ thumbs.db
 .DS_Store
 .idea
 
+
+# --- local runtime: models / caches / artifacts (not versioned) ---
+out-verify/
